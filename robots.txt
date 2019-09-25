@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ceihexahth.nuanced.design/sitemap.xml
